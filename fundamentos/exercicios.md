@@ -3,7 +3,7 @@
 ## 🔹 Tipos e Variáveis
 
 1. Declare variáveis dos tipos `int`, `double`, `char`, `string`, `bool`. Atribua valores e imprima-os com `Console.WriteLine()`. [Link](./exercicios/Ex01)
-2. Converta um valor `double` para `int` e exiba os dois valores.
+2. Converta um valor `double` para `int` e exiba os dois valores. [Link](./exercicios/Ex02)
 
 ## 🔹 Entrada e Saída
 

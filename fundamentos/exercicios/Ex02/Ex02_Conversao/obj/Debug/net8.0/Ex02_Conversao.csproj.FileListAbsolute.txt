@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\bin\Debug\net8.0\Ex02_Conversao.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\bin\Debug\net8.0\Ex02_Conversao.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\bin\Debug\net8.0\Ex02_Conversao.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\bin\Debug\net8.0\Ex02_Conversao.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\bin\Debug\net8.0\Ex02_Conversao.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\obj\Debug\net8.0\Ex02_Conversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\obj\Debug\net8.0\Ex02_Conversao.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\obj\Debug\net8.0\Ex02_Conversao.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\obj\Debug\net8.0\Ex02_Conversao.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\obj\Debug\net8.0\Ex02_Conversao.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\obj\Debug\net8.0\Ex02_Conversao.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\obj\Debug\net8.0\refint\Ex02_Conversao.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\obj\Debug\net8.0\Ex02_Conversao.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\obj\Debug\net8.0\Ex02_Conversao.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex02\Ex02_Conversao\obj\Debug\net8.0\ref\Ex02_Conversao.dll
