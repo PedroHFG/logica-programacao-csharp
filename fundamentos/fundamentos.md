@@ -225,6 +225,12 @@ for (int i = 0; i < 5; i++) {
 
 ---
 
+## 🔹 Exercícios de Fixação
+
+- 📝 [Lista de Exercícios](./fundamentos/exercicios.md)
+
+---
+
 ## 🧠 Ideal para:
 
 - Estudantes iniciantes em C#

@@ -5,10 +5,12 @@ Este repositório reúne meus estudos em C#, com foco em lógica de programaçã
 ## 📚 Conteúdo
 
 ### 🔹 Fundamentos de Lógica de Programação
-- 📄 [Resumo Teórico](./fundamentos/resumo.md)
+
+- 📄 [Resumo Teórico](./fundamentos/fundamentos.md)
 - 📝 [Lista de Exercícios](./fundamentos/exercicios.md)
 
 ### 🔹 Programação Orientada a Objetos (em breve)
+
 - 🚧 `Em construção`
 
 ---
