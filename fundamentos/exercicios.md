@@ -8,7 +8,7 @@
 ## 🔹 Entrada e Saída
 
 3. Peça ao usuário seu nome e idade e exiba uma mensagem como: `Olá, Maria! Você tem 25 anos.` [Link](./exercicios/Ex03)
-4. Leia dois números inteiros e exiba a soma, subtração, multiplicação e divisão entre eles.
+4. Leia dois números inteiros e exiba a soma, subtração, multiplicação e divisão entre eles. [Link](./exercicios/Ex04)
 
 ## 🔹 Operadores
 

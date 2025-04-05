@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\bin\Debug\net8.0\Ex04_OperacoesBasicas.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\bin\Debug\net8.0\Ex04_OperacoesBasicas.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\bin\Debug\net8.0\Ex04_OperacoesBasicas.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\bin\Debug\net8.0\Ex04_OperacoesBasicas.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\bin\Debug\net8.0\Ex04_OperacoesBasicas.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\obj\Debug\net8.0\Ex04_OperacoesBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\obj\Debug\net8.0\Ex04_OperacoesBasicas.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\obj\Debug\net8.0\Ex04_OperacoesBasicas.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\obj\Debug\net8.0\Ex04_OperacoesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\obj\Debug\net8.0\Ex04_OperacoesBasicas.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\obj\Debug\net8.0\Ex04_OperacoesBasicas.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\obj\Debug\net8.0\refint\Ex04_OperacoesBasicas.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\obj\Debug\net8.0\Ex04_OperacoesBasicas.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\obj\Debug\net8.0\Ex04_OperacoesBasicas.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex04\Ex04_OperacoesBasicas\obj\Debug\net8.0\ref\Ex04_OperacoesBasicas.dll
