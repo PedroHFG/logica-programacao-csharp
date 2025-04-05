@@ -12,7 +12,7 @@
 
 ## 🔹 Operadores
 
-5. Solicite dois números inteiros e diga qual é o maior.
+5. Solicite dois números inteiros e diga qual é o maior. [Link](./exercicios/Ex05)
 6. Leia um número inteiro e informe se ele é par ou ímpar.
 7. Verifique se um número está no intervalo de 10 a 20.
 

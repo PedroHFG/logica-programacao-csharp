@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\bin\Debug\net8.0\Ex05_MaiorNumero.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\bin\Debug\net8.0\Ex05_MaiorNumero.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\bin\Debug\net8.0\Ex05_MaiorNumero.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\bin\Debug\net8.0\Ex05_MaiorNumero.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\bin\Debug\net8.0\Ex05_MaiorNumero.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\obj\Debug\net8.0\Ex05_MaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\obj\Debug\net8.0\Ex05_MaiorNumero.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\obj\Debug\net8.0\Ex05_MaiorNumero.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\obj\Debug\net8.0\Ex05_MaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\obj\Debug\net8.0\Ex05_MaiorNumero.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\obj\Debug\net8.0\Ex05_MaiorNumero.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\obj\Debug\net8.0\refint\Ex05_MaiorNumero.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\obj\Debug\net8.0\Ex05_MaiorNumero.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\obj\Debug\net8.0\Ex05_MaiorNumero.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex05\Ex05_MaiorNumero\obj\Debug\net8.0\ref\Ex05_MaiorNumero.dll
