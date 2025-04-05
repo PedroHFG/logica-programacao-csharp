@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\bin\Debug\net8.0\Ex09_AnoBissexto.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\bin\Debug\net8.0\Ex09_AnoBissexto.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\bin\Debug\net8.0\Ex09_AnoBissexto.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\bin\Debug\net8.0\Ex09_AnoBissexto.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\bin\Debug\net8.0\Ex09_AnoBissexto.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\obj\Debug\net8.0\Ex09_AnoBissexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\obj\Debug\net8.0\Ex09_AnoBissexto.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\obj\Debug\net8.0\Ex09_AnoBissexto.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\obj\Debug\net8.0\Ex09_AnoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\obj\Debug\net8.0\Ex09_AnoBissexto.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\obj\Debug\net8.0\Ex09_AnoBissexto.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\obj\Debug\net8.0\refint\Ex09_AnoBissexto.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\obj\Debug\net8.0\Ex09_AnoBissexto.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\obj\Debug\net8.0\Ex09_AnoBissexto.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex09\Ex09_AnoBissexto\obj\Debug\net8.0\ref\Ex09_AnoBissexto.dll

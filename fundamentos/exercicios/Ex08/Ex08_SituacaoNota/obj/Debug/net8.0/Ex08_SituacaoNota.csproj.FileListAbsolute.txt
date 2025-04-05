@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\bin\Debug\net8.0\Ex08_SituacaoNota.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\bin\Debug\net8.0\Ex08_SituacaoNota.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\bin\Debug\net8.0\Ex08_SituacaoNota.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\bin\Debug\net8.0\Ex08_SituacaoNota.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\bin\Debug\net8.0\Ex08_SituacaoNota.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\obj\Debug\net8.0\Ex08_SituacaoNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\obj\Debug\net8.0\Ex08_SituacaoNota.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\obj\Debug\net8.0\Ex08_SituacaoNota.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\obj\Debug\net8.0\Ex08_SituacaoNota.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\obj\Debug\net8.0\Ex08_SituacaoNota.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\obj\Debug\net8.0\Ex08_SituacaoNota.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\obj\Debug\net8.0\refint\Ex08_SituacaoNota.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\obj\Debug\net8.0\Ex08_SituacaoNota.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\obj\Debug\net8.0\Ex08_SituacaoNota.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex08\Ex08_SituacaoNota\obj\Debug\net8.0\ref\Ex08_SituacaoNota.dll

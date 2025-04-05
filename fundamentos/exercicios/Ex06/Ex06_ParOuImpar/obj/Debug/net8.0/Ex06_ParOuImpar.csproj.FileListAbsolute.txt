@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\bin\Debug\net8.0\Ex06_ParOuImpar.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\bin\Debug\net8.0\Ex06_ParOuImpar.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\bin\Debug\net8.0\Ex06_ParOuImpar.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\bin\Debug\net8.0\Ex06_ParOuImpar.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\bin\Debug\net8.0\Ex06_ParOuImpar.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\obj\Debug\net8.0\Ex06_ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\obj\Debug\net8.0\Ex06_ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\obj\Debug\net8.0\Ex06_ParOuImpar.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\obj\Debug\net8.0\Ex06_ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\obj\Debug\net8.0\Ex06_ParOuImpar.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\obj\Debug\net8.0\Ex06_ParOuImpar.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\obj\Debug\net8.0\refint\Ex06_ParOuImpar.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\obj\Debug\net8.0\Ex06_ParOuImpar.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\obj\Debug\net8.0\Ex06_ParOuImpar.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex06\Ex06_ParOuImpar\obj\Debug\net8.0\ref\Ex06_ParOuImpar.dll

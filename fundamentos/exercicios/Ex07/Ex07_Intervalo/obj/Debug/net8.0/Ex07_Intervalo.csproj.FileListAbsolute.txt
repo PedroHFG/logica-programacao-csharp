@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\bin\Debug\net8.0\Ex07_Intervalo.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\bin\Debug\net8.0\Ex07_Intervalo.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\bin\Debug\net8.0\Ex07_Intervalo.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\bin\Debug\net8.0\Ex07_Intervalo.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\bin\Debug\net8.0\Ex07_Intervalo.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\obj\Debug\net8.0\Ex07_Intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\obj\Debug\net8.0\Ex07_Intervalo.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\obj\Debug\net8.0\Ex07_Intervalo.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\obj\Debug\net8.0\Ex07_Intervalo.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\obj\Debug\net8.0\Ex07_Intervalo.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\obj\Debug\net8.0\Ex07_Intervalo.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\obj\Debug\net8.0\refint\Ex07_Intervalo.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\obj\Debug\net8.0\Ex07_Intervalo.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\obj\Debug\net8.0\Ex07_Intervalo.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex07\Ex07_Intervalo\obj\Debug\net8.0\ref\Ex07_Intervalo.dll

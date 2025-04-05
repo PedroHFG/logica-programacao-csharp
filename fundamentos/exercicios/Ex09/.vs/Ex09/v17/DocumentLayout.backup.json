@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\fundamentos\\exercicios\\Ex09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F790B06-3952-487E-8AA1-4D901B4397BF}|Ex09_AnoBissexto\\Ex09_AnoBissexto.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\fundamentos\\exercicios\\ex09\\ex09_anobissexto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F790B06-3952-487E-8AA1-4D901B4397BF}|Ex09_AnoBissexto\\Ex09_AnoBissexto.csproj|solutionrelative:ex09_anobissexto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\fundamentos\\exercicios\\Ex09\\Ex09_AnoBissexto\\Program.cs",
+              "RelativeDocumentMoniker": "Ex09_AnoBissexto\\Program.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\fundamentos\\exercicios\\Ex09\\Ex09_AnoBissexto\\Program.cs",
+              "RelativeToolTip": "Ex09_AnoBissexto\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:55:04.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
