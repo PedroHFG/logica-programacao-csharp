@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\bin\Debug\net8.0\Ex03_Saudacao.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\bin\Debug\net8.0\Ex03_Saudacao.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\bin\Debug\net8.0\Ex03_Saudacao.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\bin\Debug\net8.0\Ex03_Saudacao.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\bin\Debug\net8.0\Ex03_Saudacao.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\obj\Debug\net8.0\Ex03_Saudacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\obj\Debug\net8.0\Ex03_Saudacao.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\obj\Debug\net8.0\Ex03_Saudacao.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\obj\Debug\net8.0\Ex03_Saudacao.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\obj\Debug\net8.0\Ex03_Saudacao.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\obj\Debug\net8.0\Ex03_Saudacao.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\obj\Debug\net8.0\refint\Ex03_Saudacao.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\obj\Debug\net8.0\Ex03_Saudacao.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\obj\Debug\net8.0\Ex03_Saudacao.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex03\Ex03_Saudacao\obj\Debug\net8.0\ref\Ex03_Saudacao.dll
