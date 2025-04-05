@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\bin\Debug\net8.0\Ex01_TiposVariaveis.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\bin\Debug\net8.0\Ex01_TiposVariaveis.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\bin\Debug\net8.0\Ex01_TiposVariaveis.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\bin\Debug\net8.0\Ex01_TiposVariaveis.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\bin\Debug\net8.0\Ex01_TiposVariaveis.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\obj\Debug\net8.0\Ex01_TiposVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\obj\Debug\net8.0\Ex01_TiposVariaveis.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\obj\Debug\net8.0\Ex01_TiposVariaveis.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\obj\Debug\net8.0\Ex01_TiposVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\obj\Debug\net8.0\Ex01_TiposVariaveis.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\obj\Debug\net8.0\Ex01_TiposVariaveis.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\obj\Debug\net8.0\refint\Ex01_TiposVariaveis.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\obj\Debug\net8.0\Ex01_TiposVariaveis.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\obj\Debug\net8.0\Ex01_TiposVariaveis.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex01\Ex01_TiposVariaveis\obj\Debug\net8.0\ref\Ex01_TiposVariaveis.dll
