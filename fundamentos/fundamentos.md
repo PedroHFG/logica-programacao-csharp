@@ -227,7 +227,7 @@ for (int i = 0; i < 5; i++) {
 
 ## 🔹 Exercícios de Fixação
 
-- 📝 [Lista de Exercícios](./fundamentos/exercicios.md)
+- 📝 [Lista de Exercícios](./exercicios.md)
 
 ---
 
