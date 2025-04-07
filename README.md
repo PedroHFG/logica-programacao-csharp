@@ -11,6 +11,8 @@ Este repositório reúne meus estudos em C#, com foco em lógica de programaçã
 
 ### 🔹 Programação Orientada a Objetos (em breve)
 
+1. Classes, Atributos, Métodos, Static
+
 - 🚧 `Em construção`
 
 ---
