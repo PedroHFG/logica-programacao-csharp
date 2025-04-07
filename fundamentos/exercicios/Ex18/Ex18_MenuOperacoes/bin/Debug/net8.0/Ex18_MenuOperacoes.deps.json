@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex18_MenuOperacoes/1.0.0": {
+        "runtime": {
+          "Ex18_MenuOperacoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex18_MenuOperacoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

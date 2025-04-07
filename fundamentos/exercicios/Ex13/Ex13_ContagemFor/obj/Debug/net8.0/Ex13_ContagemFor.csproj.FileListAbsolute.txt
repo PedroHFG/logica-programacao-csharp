@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\bin\Debug\net8.0\Ex13_ContagemFor.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\bin\Debug\net8.0\Ex13_ContagemFor.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\bin\Debug\net8.0\Ex13_ContagemFor.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\bin\Debug\net8.0\Ex13_ContagemFor.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\bin\Debug\net8.0\Ex13_ContagemFor.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\obj\Debug\net8.0\Ex13_ContagemFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\obj\Debug\net8.0\Ex13_ContagemFor.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\obj\Debug\net8.0\Ex13_ContagemFor.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\obj\Debug\net8.0\Ex13_ContagemFor.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\obj\Debug\net8.0\Ex13_ContagemFor.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\obj\Debug\net8.0\Ex13_ContagemFor.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\obj\Debug\net8.0\refint\Ex13_ContagemFor.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\obj\Debug\net8.0\Ex13_ContagemFor.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\obj\Debug\net8.0\Ex13_ContagemFor.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex13\Ex13_ContagemFor\obj\Debug\net8.0\ref\Ex13_ContagemFor.dll

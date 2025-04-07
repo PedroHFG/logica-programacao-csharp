@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\bin\Debug\net8.0\Ex10_MaiorFuncao.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\bin\Debug\net8.0\Ex10_MaiorFuncao.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\bin\Debug\net8.0\Ex10_MaiorFuncao.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\bin\Debug\net8.0\Ex10_MaiorFuncao.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\bin\Debug\net8.0\Ex10_MaiorFuncao.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\obj\Debug\net8.0\Ex10_MaiorFuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\obj\Debug\net8.0\Ex10_MaiorFuncao.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\obj\Debug\net8.0\Ex10_MaiorFuncao.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\obj\Debug\net8.0\Ex10_MaiorFuncao.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\obj\Debug\net8.0\Ex10_MaiorFuncao.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\obj\Debug\net8.0\Ex10_MaiorFuncao.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\obj\Debug\net8.0\refint\Ex10_MaiorFuncao.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\obj\Debug\net8.0\Ex10_MaiorFuncao.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\obj\Debug\net8.0\Ex10_MaiorFuncao.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex10\Ex10_MaiorFuncao\obj\Debug\net8.0\ref\Ex10_MaiorFuncao.dll

@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\bin\Debug\net8.0\Ex17_MediaPonderada.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\bin\Debug\net8.0\Ex17_MediaPonderada.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\bin\Debug\net8.0\Ex17_MediaPonderada.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\bin\Debug\net8.0\Ex17_MediaPonderada.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\bin\Debug\net8.0\Ex17_MediaPonderada.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\obj\Debug\net8.0\Ex17_MediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\obj\Debug\net8.0\Ex17_MediaPonderada.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\obj\Debug\net8.0\Ex17_MediaPonderada.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\obj\Debug\net8.0\Ex17_MediaPonderada.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\obj\Debug\net8.0\Ex17_MediaPonderada.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\obj\Debug\net8.0\Ex17_MediaPonderada.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\obj\Debug\net8.0\refint\Ex17_MediaPonderada.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\obj\Debug\net8.0\Ex17_MediaPonderada.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\obj\Debug\net8.0\Ex17_MediaPonderada.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex17\Ex17_MediaPonderada\obj\Debug\net8.0\ref\Ex17_MediaPonderada.dll

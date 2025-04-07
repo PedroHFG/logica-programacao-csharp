@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\bin\Debug\net8.0\Ex11_PrimoFuncao.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\bin\Debug\net8.0\Ex11_PrimoFuncao.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\bin\Debug\net8.0\Ex11_PrimoFuncao.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\bin\Debug\net8.0\Ex11_PrimoFuncao.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\bin\Debug\net8.0\Ex11_PrimoFuncao.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\obj\Debug\net8.0\Ex11_PrimoFuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\obj\Debug\net8.0\Ex11_PrimoFuncao.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\obj\Debug\net8.0\Ex11_PrimoFuncao.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\obj\Debug\net8.0\Ex11_PrimoFuncao.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\obj\Debug\net8.0\Ex11_PrimoFuncao.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\obj\Debug\net8.0\Ex11_PrimoFuncao.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\obj\Debug\net8.0\refint\Ex11_PrimoFuncao.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\obj\Debug\net8.0\Ex11_PrimoFuncao.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\obj\Debug\net8.0\Ex11_PrimoFuncao.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex11\Ex11_PrimoFuncao\obj\Debug\net8.0\ref\Ex11_PrimoFuncao.dll

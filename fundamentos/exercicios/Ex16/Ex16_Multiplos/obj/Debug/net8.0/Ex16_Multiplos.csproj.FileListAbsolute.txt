@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\bin\Debug\net8.0\Ex16_Multiplos.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\bin\Debug\net8.0\Ex16_Multiplos.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\bin\Debug\net8.0\Ex16_Multiplos.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\bin\Debug\net8.0\Ex16_Multiplos.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\bin\Debug\net8.0\Ex16_Multiplos.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\obj\Debug\net8.0\Ex16_Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\obj\Debug\net8.0\Ex16_Multiplos.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\obj\Debug\net8.0\Ex16_Multiplos.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\obj\Debug\net8.0\Ex16_Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\obj\Debug\net8.0\Ex16_Multiplos.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\obj\Debug\net8.0\Ex16_Multiplos.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\obj\Debug\net8.0\refint\Ex16_Multiplos.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\obj\Debug\net8.0\Ex16_Multiplos.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\obj\Debug\net8.0\Ex16_Multiplos.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex16\Ex16_Multiplos\obj\Debug\net8.0\ref\Ex16_Multiplos.dll

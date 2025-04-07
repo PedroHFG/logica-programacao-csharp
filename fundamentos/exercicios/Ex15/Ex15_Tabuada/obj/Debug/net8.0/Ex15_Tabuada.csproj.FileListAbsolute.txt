@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\bin\Debug\net8.0\Ex15_Tabuada.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\bin\Debug\net8.0\Ex15_Tabuada.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\bin\Debug\net8.0\Ex15_Tabuada.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\bin\Debug\net8.0\Ex15_Tabuada.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\bin\Debug\net8.0\Ex15_Tabuada.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\obj\Debug\net8.0\Ex15_Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\obj\Debug\net8.0\Ex15_Tabuada.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\obj\Debug\net8.0\Ex15_Tabuada.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\obj\Debug\net8.0\Ex15_Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\obj\Debug\net8.0\Ex15_Tabuada.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\obj\Debug\net8.0\Ex15_Tabuada.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\obj\Debug\net8.0\refint\Ex15_Tabuada.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\obj\Debug\net8.0\Ex15_Tabuada.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\obj\Debug\net8.0\Ex15_Tabuada.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex15\Ex15_Tabuada\obj\Debug\net8.0\ref\Ex15_Tabuada.dll

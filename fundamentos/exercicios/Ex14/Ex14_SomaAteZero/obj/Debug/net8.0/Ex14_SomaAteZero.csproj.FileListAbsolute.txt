@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\bin\Debug\net8.0\Ex14_SomaAteZero.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\bin\Debug\net8.0\Ex14_SomaAteZero.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\bin\Debug\net8.0\Ex14_SomaAteZero.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\bin\Debug\net8.0\Ex14_SomaAteZero.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\bin\Debug\net8.0\Ex14_SomaAteZero.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\obj\Debug\net8.0\Ex14_SomaAteZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\obj\Debug\net8.0\Ex14_SomaAteZero.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\obj\Debug\net8.0\Ex14_SomaAteZero.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\obj\Debug\net8.0\Ex14_SomaAteZero.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\obj\Debug\net8.0\Ex14_SomaAteZero.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\obj\Debug\net8.0\Ex14_SomaAteZero.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\obj\Debug\net8.0\refint\Ex14_SomaAteZero.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\obj\Debug\net8.0\Ex14_SomaAteZero.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\obj\Debug\net8.0\Ex14_SomaAteZero.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex14\Ex14_SomaAteZero\obj\Debug\net8.0\ref\Ex14_SomaAteZero.dll

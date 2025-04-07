@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\bin\Debug\net8.0\Ex12_Fatorial.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\bin\Debug\net8.0\Ex12_Fatorial.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\bin\Debug\net8.0\Ex12_Fatorial.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\bin\Debug\net8.0\Ex12_Fatorial.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\bin\Debug\net8.0\Ex12_Fatorial.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\obj\Debug\net8.0\Ex12_Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\obj\Debug\net8.0\Ex12_Fatorial.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\obj\Debug\net8.0\Ex12_Fatorial.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\obj\Debug\net8.0\Ex12_Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\obj\Debug\net8.0\Ex12_Fatorial.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\obj\Debug\net8.0\Ex12_Fatorial.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\obj\Debug\net8.0\refint\Ex12_Fatorial.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\obj\Debug\net8.0\Ex12_Fatorial.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\obj\Debug\net8.0\Ex12_Fatorial.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex12\Ex12_Fatorial\obj\Debug\net8.0\ref\Ex12_Fatorial.dll

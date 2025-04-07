@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\bin\Debug\net8.0\Ex19_CaixaEletronico.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\bin\Debug\net8.0\Ex19_CaixaEletronico.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\bin\Debug\net8.0\Ex19_CaixaEletronico.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\bin\Debug\net8.0\Ex19_CaixaEletronico.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\bin\Debug\net8.0\Ex19_CaixaEletronico.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\obj\Debug\net8.0\Ex19_CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\obj\Debug\net8.0\Ex19_CaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\obj\Debug\net8.0\Ex19_CaixaEletronico.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\obj\Debug\net8.0\Ex19_CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\obj\Debug\net8.0\Ex19_CaixaEletronico.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\obj\Debug\net8.0\Ex19_CaixaEletronico.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\obj\Debug\net8.0\refint\Ex19_CaixaEletronico.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\obj\Debug\net8.0\Ex19_CaixaEletronico.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\obj\Debug\net8.0\Ex19_CaixaEletronico.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex19\Ex19_CaixaEletronico\obj\Debug\net8.0\ref\Ex19_CaixaEletronico.dll

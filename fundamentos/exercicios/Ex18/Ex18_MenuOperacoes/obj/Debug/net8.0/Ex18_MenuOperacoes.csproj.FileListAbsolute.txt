@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\bin\Debug\net8.0\Ex18_MenuOperacoes.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\bin\Debug\net8.0\Ex18_MenuOperacoes.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\bin\Debug\net8.0\Ex18_MenuOperacoes.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\bin\Debug\net8.0\Ex18_MenuOperacoes.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\bin\Debug\net8.0\Ex18_MenuOperacoes.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\obj\Debug\net8.0\Ex18_MenuOperacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\obj\Debug\net8.0\Ex18_MenuOperacoes.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\obj\Debug\net8.0\Ex18_MenuOperacoes.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\obj\Debug\net8.0\Ex18_MenuOperacoes.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\obj\Debug\net8.0\Ex18_MenuOperacoes.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\obj\Debug\net8.0\Ex18_MenuOperacoes.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\obj\Debug\net8.0\refint\Ex18_MenuOperacoes.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\obj\Debug\net8.0\Ex18_MenuOperacoes.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\obj\Debug\net8.0\Ex18_MenuOperacoes.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\fundamentos\exercicios\Ex18\Ex18_MenuOperacoes\obj\Debug\net8.0\ref\Ex18_MenuOperacoes.dll

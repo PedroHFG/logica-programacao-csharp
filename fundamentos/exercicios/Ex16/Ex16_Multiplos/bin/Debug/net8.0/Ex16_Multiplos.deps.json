@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex16_Multiplos/1.0.0": {
+        "runtime": {
+          "Ex16_Multiplos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex16_Multiplos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex14_SomaAteZero/1.0.0": {
+        "runtime": {
+          "Ex14_SomaAteZero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex14_SomaAteZero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
