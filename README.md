@@ -13,6 +13,8 @@ Este repositório reúne meus estudos em C#, com foco em lógica de programaçã
 
 1. Classes, Atributos, Métodos, Static
 
+- 📄 [Resumo Teórico](./poo/parte1/resumo_poo.md)
+
 - 🚧 `Em construção`
 
 ---
