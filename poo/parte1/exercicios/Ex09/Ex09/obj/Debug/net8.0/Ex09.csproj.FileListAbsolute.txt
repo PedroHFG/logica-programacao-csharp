@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\bin\Debug\net8.0\Ex09.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\bin\Debug\net8.0\Ex09.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\bin\Debug\net8.0\Ex09.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\bin\Debug\net8.0\Ex09.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\bin\Debug\net8.0\Ex09.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\obj\Debug\net8.0\Ex09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\obj\Debug\net8.0\Ex09.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\obj\Debug\net8.0\Ex09.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\obj\Debug\net8.0\Ex09.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\obj\Debug\net8.0\Ex09.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\obj\Debug\net8.0\Ex09.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\obj\Debug\net8.0\refint\Ex09.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\obj\Debug\net8.0\Ex09.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\obj\Debug\net8.0\Ex09.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\poo\parte1\exercicios\Ex09\Ex09\obj\Debug\net8.0\ref\Ex09.dll

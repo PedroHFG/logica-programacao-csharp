@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\poo\\parte1\\exercicios\\Ex01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{429758D4-49C3-44DB-B947-2D42DB2D9C5E}|Ex01\\Ex01.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\poo\\parte1\\exercicios\\ex01\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429758D4-49C3-44DB-B947-2D42DB2D9C5E}|Ex01\\Ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429758D4-49C3-44DB-B947-2D42DB2D9C5E}|Ex01\\Ex01.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\poo\\parte1\\exercicios\\ex01\\ex01\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429758D4-49C3-44DB-B947-2D42DB2D9C5E}|Ex01\\Ex01.csproj|solutionrelative:ex01\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\poo\\parte1\\exercicios\\Ex01\\Ex01\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Ex01\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\poo\\parte1\\exercicios\\Ex01\\Ex01\\Triangulo.cs",
+              "RelativeToolTip": "Ex01\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:34:20.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\poo\\parte1\\exercicios\\Ex01\\Ex01\\Program.cs",
+              "RelativeDocumentMoniker": "Ex01\\Program.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\poo\\parte1\\exercicios\\Ex01\\Ex01\\Program.cs",
+              "RelativeToolTip": "Ex01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:32:56.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -9,12 +9,17 @@ Este repositório reúne meus estudos em C#, com foco em lógica de programaçã
 - 📄 [Resumo Teórico](./fundamentos/fundamentos.md)
 - 📝 [Lista de Exercícios](./fundamentos/exercicios.md)
 
-### 🔹 Programação Orientada a Objetos (em breve)
+### 🔹 Programação Orientada a Objetos
 
 1. Classes, Atributos, Métodos, Static
 
 - 📄 [Resumo Teórico](./poo/parte1/resumo_poo.md)
 - 📝 [Lista de Exercícios](./poo/parte1/exercicios.md)
+
+2. Construtores, this, sobrecarga, encapsulamento
+
+- 📄 [Resumo Teórico](./poo/parte2/resumo_avancado_poo.md)
+- 📝 [Lista de Exercícios](./poo/parte2/exercicios.md)
 
 - 🚧 `Em construção`
 
