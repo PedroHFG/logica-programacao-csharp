@@ -23,6 +23,11 @@ Este repositório reúne meus estudos em C#, com foco em lógica de programaçã
 
 - 🚧 `Em construção`
 
+### 🔹 Memória, Nullable, Vetores, Listas, Matrizes
+
+- 📄 [Resumo Teórico](./estrutura-de-dados/resumo.md)
+- 📝 [Lista de Exercícios](./estrutura-de-dados/exercicios.md)
+
 ---
 
 ## ✅ Sobre
