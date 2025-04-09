@@ -32,6 +32,11 @@ Este repositório reúne meus estudos em C#, com foco em lógica de programaçã
 
 - 📄 [Resumo Teórico](./topicos-especiais/resumo.md)
 
+### 🔹 Enumerações e Composição
+
+- 📄 [Resumo Teórico](./enumeracao-composicao/resumo.md)
+- 📝 [Lista de Exercícios](./enumeracao-composicao/exercicios.md)
+
 ---
 
 ## ✅ Sobre
