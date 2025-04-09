@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\estrutura-de-dados\\exercicios\\Ex02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50CBF4AC-1FA9-4BE8-9EA3-06BCA2A75047}|Ex02\\Ex02.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\estrutura-de-dados\\exercicios\\ex02\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CBF4AC-1FA9-4BE8-9EA3-06BCA2A75047}|Ex02\\Ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CBF4AC-1FA9-4BE8-9EA3-06BCA2A75047}|Ex02\\Ex02.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\estrutura-de-dados\\exercicios\\ex02\\ex02\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CBF4AC-1FA9-4BE8-9EA3-06BCA2A75047}|Ex02\\Ex02.csproj|solutionrelative:ex02\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\estrutura-de-dados\\exercicios\\Ex02\\Ex02\\Estudante.cs",
+              "RelativeDocumentMoniker": "Ex02\\Estudante.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\estrutura-de-dados\\exercicios\\Ex02\\Ex02\\Estudante.cs",
+              "RelativeToolTip": "Ex02\\Estudante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:42:32.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\estrutura-de-dados\\exercicios\\Ex02\\Ex02\\Program.cs",
+              "RelativeDocumentMoniker": "Ex02\\Program.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\estrutura-de-dados\\exercicios\\Ex02\\Ex02\\Program.cs",
+              "RelativeToolTip": "Ex02\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:39:08.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
