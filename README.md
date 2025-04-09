@@ -28,6 +28,10 @@ Este repositório reúne meus estudos em C#, com foco em lógica de programaçã
 - 📄 [Resumo Teórico](./estrutura-de-dados/resumo.md)
 - 📝 [Lista de Exercícios](./estrutura-de-dados/exercicios.md)
 
+### 🔹 Tópicos Especiais C#
+
+- 📄 [Resumo Teórico](./topicos-especiais/resumo.md)
+
 ---
 
 ## ✅ Sobre
