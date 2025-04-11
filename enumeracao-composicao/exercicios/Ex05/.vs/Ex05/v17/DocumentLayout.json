@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB87167-99BF-4EF8-87C9-55AC1F5C7EA1}|Ex05\\Ex05.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\ex05\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB87167-99BF-4EF8-87C9-55AC1F5C7EA1}|Ex05\\Ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB87167-99BF-4EF8-87C9-55AC1F5C7EA1}|Ex05\\Ex05.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\ex05\\ex05\\entities\\artigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB87167-99BF-4EF8-87C9-55AC1F5C7EA1}|Ex05\\Ex05.csproj|solutionrelative:ex05\\entities\\artigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB87167-99BF-4EF8-87C9-55AC1F5C7EA1}|Ex05\\Ex05.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\ex05\\ex05\\entities\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB87167-99BF-4EF8-87C9-55AC1F5C7EA1}|Ex05\\Ex05.csproj|solutionrelative:ex05\\entities\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB87167-99BF-4EF8-87C9-55AC1F5C7EA1}|Ex05\\Ex05.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\ex05\\ex05\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB87167-99BF-4EF8-87C9-55AC1F5C7EA1}|Ex05\\Ex05.csproj|solutionrelative:ex05\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artigo.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex05\\Ex05\\Entities\\Artigo.cs",
+              "RelativeDocumentMoniker": "Ex05\\Entities\\Artigo.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex05\\Ex05\\Entities\\Artigo.cs",
+              "RelativeToolTip": "Ex05\\Entities\\Artigo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvx4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:07:54.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex05\\Ex05\\Entities\\Comentario.cs",
+              "RelativeDocumentMoniker": "Ex05\\Entities\\Comentario.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex05\\Ex05\\Entities\\Comentario.cs",
+              "RelativeToolTip": "Ex05\\Entities\\Comentario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:05:10.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex05\\Ex05\\Entities\\Autor.cs",
+              "RelativeDocumentMoniker": "Ex05\\Entities\\Autor.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex05\\Ex05\\Entities\\Autor.cs",
+              "RelativeToolTip": "Ex05\\Entities\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:04:00.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex05\\Ex05\\Program.cs",
+              "RelativeDocumentMoniker": "Ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex05\\Ex05\\Program.cs",
+              "RelativeToolTip": "Ex05\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:01:19.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -53,7 +53,7 @@ Use composição para vincular todos os objetos entre si.
 
 ## 🔹 Desafios Realistas
 
-### 5. Plataforma de Publicação de Conteúdo
+### 5. Plataforma de Publicação de Conteúdo [Link](./exercicios/Ex05)
 
 Modele:
 
@@ -65,6 +65,8 @@ Implemente:
 
 - Uma lista de comentários em cada artigo
 - Uma função para exibir artigo com seus comentários
+
+![Diagrama-de-classes-Ex05](./diagrama-ex05.png)
 
 ### 6. Sistema de Controle de Funcionários com Departamento
 

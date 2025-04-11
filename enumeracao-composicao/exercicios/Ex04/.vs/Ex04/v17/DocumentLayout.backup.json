@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|solutionrelative:ex04\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\ex04\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\ex04\\ex04\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|solutionrelative:ex04\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\ex04\\ex04\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|solutionrelative:ex04\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|solutionrelative:ex04\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\ex04\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\ex04\\ex04\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|solutionrelative:ex04\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\ex04\\ex04\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD626912-0E33-400D-9D43-7D0F8DF490A9}|Ex04\\Ex04.csproj|solutionrelative:ex04\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex04\\Ex04\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Ex04\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex04\\Ex04\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Ex04\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:05:19.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex04\\Ex04\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Ex04\\Entities\\Order.cs",
               "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex04\\Ex04\\Entities\\Order.cs",
               "RelativeToolTip": "Ex04\\Entities\\Order.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T00:33:32.771Z",
               "EditorCaption": ""
@@ -53,46 +70,46 @@
               "RelativeDocumentMoniker": "Ex04\\Entities\\OrderItem.cs",
               "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex04\\Ex04\\Entities\\OrderItem.cs",
               "RelativeToolTip": "Ex04\\Entities\\OrderItem.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T00:30:30.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex04\\Ex04\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Ex04\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex04\\Ex04\\Entities\\Product.cs",
               "RelativeToolTip": "Ex04\\Entities\\Product.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T00:28:52.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex04\\Ex04\\Entities\\Client.cs",
               "RelativeDocumentMoniker": "Ex04\\Entities\\Client.cs",
               "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex04\\Ex04\\Entities\\Client.cs",
               "RelativeToolTip": "Ex04\\Entities\\Client.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAABAwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T00:26:15.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex04\\Ex04\\Program.cs",
               "RelativeDocumentMoniker": "Ex04\\Program.cs",
               "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\enumeracao-composicao\\exercicios\\Ex04\\Ex04\\Program.cs",
               "RelativeToolTip": "Ex04\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T00:03:49.535Z",
               "EditorCaption": ""
