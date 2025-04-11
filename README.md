@@ -21,7 +21,10 @@ Este repositório reúne meus estudos em C#, com foco em lógica de programaçã
 - 📄 [Resumo Teórico](./poo/parte2/resumo_avancado_poo.md)
 - 📝 [Lista de Exercícios](./poo/parte2/exercicios.md)
 
-- 🚧 `Em construção`
+3. Herança e Polimorfismo
+
+- 📄 [Resumo Teórico](./poo/parte3/resumo.md)
+- 📝 [Lista de Exercícios](./poo/parte3/exercicios.md)
 
 ### 🔹 Memória, Nullable, Vetores, Listas, Matrizes
 

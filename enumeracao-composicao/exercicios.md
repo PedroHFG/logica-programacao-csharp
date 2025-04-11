@@ -68,14 +68,6 @@ Implemente:
 
 ![Diagrama-de-classes-Ex05](./diagrama-ex05.png)
 
-### 6. Sistema de Controle de Funcionários com Departamento
-
-- Crie `Departamento` com `Nome` e `Gerente`
-- Crie `Funcionario` com `Nome`, `Cargo`, `Salario`, `Departamento`
-- Implemente:
-  - Listagem de funcionários por departamento
-  - Cálculo da folha de pagamento por departamento
-
 ---
 
 ## ✅ Dicas
