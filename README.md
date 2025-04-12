@@ -45,6 +45,11 @@ Este repositório reúne meus estudos em C#, com foco em lógica de programaçã
 - 📄 [Resumo Teórico](./tratamento-de-erros/resumo.md)
 - 📝 [Lista de Exercícios](./tratamento-de-erros/exercicios.md)
 
+### 🔹 Trabalhando com arquivos
+
+- 📄 [Resumo Teórico](./trabalhando-com-arquivos/resumo.md)
+- 📝 [Lista de Exercícios](./trabalhando-com-arquivos/exercicios.md)
+
 ---
 
 ## ✅ Sobre
