@@ -40,6 +40,11 @@ Este repositório reúne meus estudos em C#, com foco em lógica de programaçã
 - 📄 [Resumo Teórico](./enumeracao-composicao/resumo.md)
 - 📝 [Lista de Exercícios](./enumeracao-composicao/exercicios.md)
 
+### 🔹 Tratamento de exceções
+
+- 📄 [Resumo Teórico](./tratamento-de-erros/resumo.md)
+- 📝 [Lista de Exercícios](./tratamento-de-erros/exercicios.md)
+
 ---
 
 ## ✅ Sobre
