@@ -50,6 +50,10 @@ Este repositório reúne meus estudos em C#, com foco em lógica de programaçã
 - 📄 [Resumo Teórico](./trabalhando-com-arquivos/resumo.md)
 - 📝 [Lista de Exercícios](./trabalhando-com-arquivos/exercicios.md)
 
+### 🔹 Trabalhando com arquivos
+
+- 📄 [Desafios](./desafios-parte1/desafios_consolidados.md)
+
 ---
 
 ## ✅ Sobre
