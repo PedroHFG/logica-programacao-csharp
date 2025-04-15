@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\employeemanagement\\employeemanagement\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\employeemanagement\\employeemanagement\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\employeemanagement\\employeemanagement\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\employeemanagement\\employeemanagement\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\employeemanagement\\employeemanagement\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\employeemanagement\\employeemanagement\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D32044-0E55-40C2-95FD-36DB76F47511}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAzwIsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:48:44.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "EmployeeManagement\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:12:12.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagement\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T15:00:29.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "EmployeeManagement\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:43:01.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:05:31.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Entities\\Department.cs",
+              "RelativeToolTip": "EmployeeManagement\\Entities\\Department.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABAwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:52:28.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\EmployeeManagement\\EmployeeManagement\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Entities\\Employee.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:49:50.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

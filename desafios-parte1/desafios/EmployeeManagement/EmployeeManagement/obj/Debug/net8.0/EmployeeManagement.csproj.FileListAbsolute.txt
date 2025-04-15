@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\refint\EmployeeManagement.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll

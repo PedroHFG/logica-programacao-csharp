@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\sistemacursos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\sistemacursos\\entities\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|solutionrelative:entities\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\sistemacursos\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|solutionrelative:entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\sistemacursos\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|solutionrelative:services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\sistemacursos\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|solutionrelative:entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\sistemacursos\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|solutionrelative:repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|c:\\users\\divop\\desktop\\pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\sistemacursos\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E0E839-BB7A-455B-A314-789AFC181608}|SistemaCursos.csproj|solutionrelative:repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CursoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Repositories\\CursoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CursoRepository.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Repositories\\CursoRepository.cs",
+              "RelativeToolTip": "Repositories\\CursoRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:31:35.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Repositories\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Repositories\\AlunoRepository.cs",
+              "RelativeToolTip": "Repositories\\AlunoRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwDEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:37:30.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Entities\\Matricula.cs",
+              "RelativeDocumentMoniker": "Entities\\Matricula.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Entities\\Matricula.cs",
+              "RelativeToolTip": "Entities\\Matricula.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:30:59.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Entities\\Aluno.cs",
+              "RelativeDocumentMoniker": "Entities\\Aluno.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Entities\\Aluno.cs",
+              "RelativeToolTip": "Entities\\Aluno.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:30:02.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Entities\\Curso.cs",
+              "RelativeDocumentMoniker": "Entities\\Curso.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Entities\\Curso.cs",
+              "RelativeToolTip": "Entities\\Curso.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:28:14.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAUwDoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:23:49.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "Services\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\csharp\\logica-programacao-csharp\\desafios-parte1\\desafios\\SistemaCursos\\Services\\AlunoService.cs",
+              "RelativeToolTip": "Services\\AlunoService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:41:41.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

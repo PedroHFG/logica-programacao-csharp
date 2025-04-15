@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\bin\Debug\net8.0\SistemaCursos.exe
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\bin\Debug\net8.0\SistemaCursos.deps.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\bin\Debug\net8.0\SistemaCursos.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\bin\Debug\net8.0\SistemaCursos.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\bin\Debug\net8.0\SistemaCursos.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\obj\Debug\net8.0\SistemaCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\obj\Debug\net8.0\SistemaCursos.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\obj\Debug\net8.0\SistemaCursos.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\obj\Debug\net8.0\SistemaCursos.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\obj\Debug\net8.0\SistemaCursos.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\obj\Debug\net8.0\SistemaCursos.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\obj\Debug\net8.0\refint\SistemaCursos.dll
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\obj\Debug\net8.0\SistemaCursos.pdb
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\obj\Debug\net8.0\SistemaCursos.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\csharp\logica-programacao-csharp\desafios-parte1\desafios\SistemaCursos\obj\Debug\net8.0\ref\SistemaCursos.dll
